@@ -1,0 +1,1 @@
+{"fix_id":"correct_method_invocation_1","example":"closure_92","tree":"method_invocation [788, 27] - [788, 49] @bug\n  object: identifier [788, 27] - [788, 36]\n  method: identifier [788, 37] - [788, 44] \n  arguments: argument_list [788, 44] - [788, 49]\n    character_literal [788, 45] - [788, 48]\n","parameters":"@correct_method = (identifier \"lastIndexOf\")\n"}

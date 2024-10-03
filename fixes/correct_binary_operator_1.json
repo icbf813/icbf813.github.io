@@ -1,0 +1,9 @@
+{
+"id": "correct_binary_operator_1",
+"bug_id": "wrong_binary_operator_1",
+"parameters": {"correct_operator":{"type":"operator","count":1}},
+"then": {"splat":"@bug","children":[{"field":"operator","name":"@correct_operator"}]},
+"then_raw": "(**@bug\n  operator: @correct_operator)\n",
+
+"applications": ["correct_binary_operator_1_closure_62","correct_binary_operator_1_closure_73","correct_binary_operator_1_compress_19","correct_binary_operator_1_core_14_1","correct_binary_operator_1_core_14_2","correct_binary_operator_1_jackson_core_25"]
+}

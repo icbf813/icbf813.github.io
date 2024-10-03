@@ -1,0 +1,9 @@
+{
+"id": "correct_field_access_1",
+"bug_id": "wrong_field_access_1",
+"parameters": {"correct_field":{"type":"identifier","count":1}},
+"then": {"splat":"@bug","children":[{"field":"field","name":"@correct_field"}]},
+"then_raw": "(**@bug\n  field: @correct_field)\n",
+
+"applications": ["correct_field_access_1_closure_14","correct_field_access_1_closure_92","correct_field_access_1_jsoup_77","correct_field_access_1_jx_path_10_1","correct_field_access_1_jx_path_10_2"]
+}

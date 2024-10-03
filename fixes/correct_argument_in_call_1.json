@@ -1,0 +1,9 @@
+{
+"id": "correct_argument_in_call_1",
+"bug_id": "wrong_argument_in_call_1",
+"parameters": {"correct_arg":{"type":"expression","count":1}},
+"then": {"type":"argument_list","children":[{"name":"@pre"},{"name":"@correct_arg"},{"name":"@post"}]},
+"then_raw": "(argument_list\n  @pre\n  @correct_arg\n  @post)\n",
+
+"applications": ["correct_argument_in_call_1_closure_14","correct_argument_in_call_1_closure_70","correct_argument_in_call_1_codec_7","correct_argument_in_call_1_jackson_databind_27","correct_argument_in_call_1_jackson_databind_37","correct_argument_in_call_1_jx_path_10_1","correct_argument_in_call_1_jx_path_10_2","correct_argument_in_call_1_lang_59","correct_argument_in_call_1_lang_6"]
+}

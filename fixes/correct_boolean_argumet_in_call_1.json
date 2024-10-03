@@ -1,0 +1,9 @@
+{
+"id": "correct_boolean_argumet_in_call_1",
+"bug_id": "wrong_boolean_argument_in_call_1",
+"parameters": null,
+"then": {"type":"argument_list","children":[{"name":"@pre"},{"node":{"type":"false"},"name":"@post"}]},
+"then_raw": "(argument_list\n  @pre\n  (false)\n  @post)\n",
+
+"applications": []
+}

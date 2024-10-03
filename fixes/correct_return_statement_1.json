@@ -1,0 +1,9 @@
+{
+"id": "correct_return_statement_1",
+"bug_id": "wrong_return_statement_1",
+"parameters": null,
+"then": {"splat":"bug","children":[{"field":"return_value","node":{"type":"false"}}]},
+"then_raw": "(**bug\n  return_value: (false))\n",
+
+"applications": ["correct_return_statement_1_closure_86"]
+}

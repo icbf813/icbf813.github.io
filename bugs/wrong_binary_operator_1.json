@@ -1,1 +1,0 @@
-{"parameters":null,"where":"(binary_expression\n  left: (_) @left\n  operator: (_) @wrong_operator\n  right: (_) @right)"}

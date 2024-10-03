@@ -1,0 +1,1 @@
+{"bug_id":"null_check_missing_1","parameters":{"defVal":{"type":"expression","count":1}},"then":"(ternary_expression\n  condition: (binary_expression\n    left: @obj\n    right: (null_literal))\n  consequence: @defVal\n  alternative: @bug)\n"}

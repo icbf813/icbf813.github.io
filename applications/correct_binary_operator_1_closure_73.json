@@ -1,1 +1,0 @@
-{"fix_id":"correct_binary_operator_1","example":"closure_73","tree":"binary_expression [1044, 28] - [1044, 37]\n  left: identifier [1044, 28] - [1044, 29]\n  operator: less_equal [1044, 30] - [1044, 32] @wrong_operator\n  right: hex_integer_literal [1044, 33] - [1044, 37]\n","parameters":"@correct_operator = (less)"}

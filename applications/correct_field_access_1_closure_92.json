@@ -1,1 +1,0 @@
-{"fix_id":"correct_field_access_1","example":"closure_92","tree":"field_access [788, 27] - [788, 49] @bug\n  object: identifier [788, 27] - [788, 36]\n  field: identifier [788, 37] - [788, 44] \n  arguments: argument_list [788, 44] - [788, 49]\n    character_literal [788, 45] - [788, 48]\n","parameters":"@correct_field = (identifier \"lastIndexOf\")\n"}

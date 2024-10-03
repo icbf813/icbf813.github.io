@@ -1,1 +1,0 @@
-{"language":"java","construct_name":"binary_expression","source":"(binary_expression left: (_) @left operator: (_) @operator right: (_) @right)","construct":"(assignment_expression\n  left: @left\n  operator: @operator\n  right: @right)"}

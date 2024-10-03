@@ -1,1 +1,0 @@
-{"language":"java","construct_name":"for_statement","source":"(for_statement init: (_) @init condition: (_) @condition update: (_) @update body: (_) @body)","construct":"(for_statement\n  init: @init\n  condition: @condition\n  update: @update\n  body: @body)"}

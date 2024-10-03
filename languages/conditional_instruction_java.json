@@ -1,1 +1,0 @@
-{"language":"java","construct_name":"conditional_instruction","source":"(if_statement condition: (_) @condition consequence: (_) @consequence alternative: (_) @alternative)","construct":"(conditional_instruction\n  condition: @condition\n  then_part: @consequence\n  else_part: @alternative)"}

@@ -1,1 +1,0 @@
-{"bug_id":"wrong_binary_operator_1","parameters":{"correct_operator":{"type":"operator","count":1}},"then":"(**@bug\n  operator: @correct_operator)\n"}

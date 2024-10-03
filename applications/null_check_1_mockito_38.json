@@ -1,0 +1,1 @@
+{"fix_id":"null_check_1","example":"mockito_38","tree":"field_access [47, 52] - [47, 66] @bug\n  object: identifier [47, 52] - [47, 55] @obj\n  field: identifier [47, 56] - [47, 64]\n  arguments: argument_list [47, 64] - [47, 66]\n","parameters":"@defVal = (string \"null\")\n"}

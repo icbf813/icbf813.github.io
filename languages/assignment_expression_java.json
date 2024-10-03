@@ -1,0 +1,1 @@
+{"language":"java","construct_name":"assignment_expression","source":"(assignment_expression left: (_) @left right: (_) @right)","construct":"(assignment_expression\n  left: @left\n  right: @right)"}

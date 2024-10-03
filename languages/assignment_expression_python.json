@@ -1,0 +1,1 @@
+{"language":"python","construct_name":"assignment_expression","source":"(assignment left: (_) @left right: (_) @right)","construct":"(assignment_expression\n  left: @left\n  right: @right)"}

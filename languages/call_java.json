@@ -1,0 +1,1 @@
+{"language":"java","construct_name":"call","source":"(method_invocation name: (_) @func arguments: argument_list @args)","construct":"(call\n  func: @func\n  arguments: @args)"}

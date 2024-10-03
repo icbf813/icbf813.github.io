@@ -1,1 +1,0 @@
-{"parameters":null,"where":"(return_statement\n  return_value: (true) @wrong_value)\n"}

@@ -1,0 +1,7 @@
+{
+"id": "wrong_field_access_1",
+"where": {"type":"field_access"},
+"where_raw": "(field_access)\n",
+
+"fixes": ["correct_field_access_1"]
+}

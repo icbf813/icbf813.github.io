@@ -1,0 +1,7 @@
+{
+"id": "null_check_missing_1",
+"where": {"type":"method_invocation","children":[{"field":"object","node":{"type":"_"},"name":"@obj"}]},
+"where_raw": "(method_invocation\n      object: (_) @obj)",
+
+"fixes": ["null_check_1"]
+}

@@ -1,0 +1,7 @@
+{
+"id": "wrong_binary_operator_1",
+"where": {"type":"binary_expression","children":[{"field":"left","node":{"type":"_"},"name":"@left"},{"field":"operator","node":{"type":"_"},"name":"@wrong_operator"},{"field":"right","node":{"type":"_"},"name":"@right"}]},
+"where_raw": "(binary_expression\n  left: (_) @left\n  operator: (_) @wrong_operator\n  right: (_) @right)",
+
+"fixes": ["correct_binary_operator_1"]
+}

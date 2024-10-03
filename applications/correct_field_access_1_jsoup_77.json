@@ -1,0 +1,1 @@
+{"fix_id":"correct_field_access_1","example":"jsoup_77","tree":"field_access [116, 24] - [116, 37] @bug\n  object: identifier [116, 24] - [116, 30]\n  field: identifier [116, 31] - [116, 35]\n  arguments: argument_list [116, 35] - [116, 37]\n","parameters":"@correct_field = (identifier \"normalName\")\n"}

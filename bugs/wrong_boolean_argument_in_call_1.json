@@ -1,0 +1,7 @@
+{
+"id": "wrong_boolean_argument_in_call_1",
+"where": {"type":"argument_list","children":[{"node":{"type":"_"},"quantifier":"star","name":"@pre"},{"node":{"type":"true"},"name":"@wrong_arg"},{"node":{"type":"_"},"quantifier":"star","name":"@post"}]},
+"where_raw": "(argument_list\n  (_)* @pre\n  (true) @wrong_arg\n  (_)* @post)\n",
+
+"fixes": ["correct_boolean_argument_in_call_2","correct_boolean_argumet_in_call_1"]
+}

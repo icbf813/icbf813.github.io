@@ -1,0 +1,7 @@
+{
+"id": "wrong_return_statement_1",
+"where": {"type":"return_statement","children":[{"field":"return_value","node":{"type":"true"},"name":"@wrong_value"}]},
+"where_raw": "(return_statement\n  return_value: (true) @wrong_value)\n",
+
+"fixes": ["correct_return_statement_1"]
+}
